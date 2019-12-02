@@ -1,0 +1,19 @@
+{
+  "name": "tic_tac_toe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Sangeethavanit@bitbucket.org/Sangeethavanit/tic_tac_toe.git"
+  },
+  "author": "Sangeethavani T",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Sangeethavanit/tic_tac_toe#readme",
+  "dependencies": {
+    "linebyline": "^1.3.0"
+  }
+}
